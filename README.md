@@ -1,3 +1,2 @@
 # new
-hellio 
-i'm just trying out github
+This IBM Data Science Professional Certificate capstone 
